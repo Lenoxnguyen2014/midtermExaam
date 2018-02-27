@@ -1,0 +1,36 @@
+#demo {
+	width: 70vw;
+	height: 70vh;
+	display: block;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	text-align: center;
+	}
+.default {
+	height: 20%;
+	display: block;
+	top: 0px;
+	bottom: 0px;	
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	}
+	
+.default img{
+	height: 10%;
+	position: absolute;
+	display: inline;
+	top: 0px;
+	bottom: 0px;	
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	}
+
+
+
+
